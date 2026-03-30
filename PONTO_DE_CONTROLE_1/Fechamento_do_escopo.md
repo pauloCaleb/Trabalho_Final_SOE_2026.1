@@ -1,4 +1,4 @@
-**Fechamento do Escopo – Projeto Final SOE**
+## Fechamento do Escopo – Projeto Final SOE
 
 ### 1. Contexto de Aplicação
 
@@ -85,3 +85,5 @@ Este projeto não contempla:
 ### 9. Aplicação
 
 O sistema proposto se aplica a processos de automação logística em centros de distribuição, podendo ser utilizado como base para sistemas modulares escaláveis de separação de pedidos. A arquitetura proposta segue o modelo de processamento distribuído, separando tarefas de tempo real e processamento de alto nível.
+
+---
