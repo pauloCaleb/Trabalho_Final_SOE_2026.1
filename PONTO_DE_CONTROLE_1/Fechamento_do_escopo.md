@@ -20,6 +20,12 @@ Dado um fluxo contínuo de itens previamente identificados, é necessário desen
 
 Desenvolver um sistema embarcado para controle de um módulo de esteira automatizada com capacidade de identificação e desvio de itens de acordo com o destino previamente associado ao objeto, com ênfase na integração entre controle embarcado e processamento em sistema Linux embarcado.
 
+#### Objetivos Específicos
+
+- Implementar controle de movimentação da esteira;
+- Desenvolver mecanismo de desvio de itens;
+- Integrar comunicação com sistema externo;
+- Validar o funcionamento do sistema experimentalmente;
 ---
 
 ### 4. Escopo do Sistema
