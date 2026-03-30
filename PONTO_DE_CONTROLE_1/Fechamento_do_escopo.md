@@ -93,3 +93,25 @@ Este projeto não contempla:
 O sistema proposto se aplica a processos de automação logística em centros de distribuição, podendo ser utilizado como base para sistemas modulares escaláveis de separação de pedidos. A arquitetura proposta segue o modelo de processamento distribuído, separando tarefas de tempo real e processamento de alto nível.
 
 ---
+
+### 10. Referências Bibliográficas
+
+[1] ENGENHARIA HÍBRIDA. Conheça o processo inovador de gestão de estoques da Amazon. Engenharia Híbrida, [s.d.]. Disponível em: https://www.engenhariahibrida.com.br/post/conheca-processo-inovador-gestao-de-estoques-amazon. Acesso em: 30 mar. 2026.
+
+[2] EQUIPE TOTVS. Logística do Mercado Livre: entenda os pilares da eficiência de distribuição da empresa. TOTVS Blog, 25 dez. 2023. Disponível em: https://www.totvs.com/blog/gestao-logistica/logistica-mercado-livre/. Acesso em: 30 mar. 2026.
+
+[3] EQUIPE TOTVS. Logística da Amazon: entenda os pilares da empresa líder do varejo mundial. TOTVS Blog, 16 abr. 2024. Disponível em: https://www.totvs.com/blog/gestao-logistica/logistica-amazon/. Acesso em: 30 mar. 2026.
+
+[4] MERCADO LIVRE. Mercado Envios Full. Mercado Livre, [s.d.]. Disponível em: https://www.mercadolivre.com.br/l/envios-full. Acesso em: 30 mar. 2026.
+
+[5] AMAZON STAFF. Amazon unveils the next generation of fulfillment centers powered by AI and 10 times more robotics. About Amazon, [s.d.]. Disponível em: https://www.aboutamazon.com/news/operations/amazon-fulfillment-center-robotics-ai. Acesso em: 30 mar. 2026.
+
+[6] YOUTUBE. [Vídeo – referência de automação logística]. Disponível em: https://www.youtube.com/watch?v=cRC4iktG-kE. Acesso em: 30 mar. 2026.
+
+[7] YOUTUBE. [Vídeo – escaneamento e automação de itens em esteira]. Disponível em: https://youtu.be/iumMexYY1hg?t=111. Acesso em: 30 mar. 2026.
+
+[8] YOUTUBE. [Vídeo – sistema de separação e desvio de itens]. Disponível em: https://www.youtube.com/watch?v=7AHLNGUSeGQ&t=8s. Acesso em: 30 mar. 2026.
+
+[9] INSTAGRAM. [Reel – demonstração de sistema automatizado de esteira]. Disponível em: https://www.instagram.com/reels/DQKF8Hbja6q/. Acesso em: 30 mar. 2026.
+
+---
