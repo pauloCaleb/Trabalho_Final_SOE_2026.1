@@ -1,5 +1,5 @@
 ## IDENTIFICAÇÃO DOS ESTUDANTES AUTORES
-- Felipe de Castro - 
+- Felipe de Castro Quixabeira -  231026812
 - Paulo Caleb Fernandes da Silva - 211062820 
 
 ----
@@ -135,3 +135,7 @@ Disponível em:
 👉 https://www.overleaf.com/read/djkphgstpqsh#36c54d
 
 ---
+## DOCUMENTO FINAL NO OVERLEAF (em produção)
+
+Link: https://www.overleaf.com/read/gpjtpbhxbqqf#979b82
+
