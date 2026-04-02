@@ -1,0 +1,91 @@
+Descrição das peças:
+
+(Minhas peças)
+Nome do arquivo: Wood_stitches_Esteira_Rolante_SOE.catPART
+Descrição: Peças plásticas retangulares com dois furos espaçados para fixar duas partes de madeira que compõem a base da esteira, como "pontos" que seguram uma madeira na outra e conferem rigidez à base
+Quantidade utilizada: 3 (três unidades)
+
+Nome do arquivo: Apoio_Base_Esteira_Rolante_SOE.catPART
+Descrição: Bases de apoio retangulares com quatro furos para parafusos e um ressalto para servir de pé para a esteira. São utilizadas para duas funções ao mesmo tempo, tanto para complementar a costura das peças de madeira quanto para servir de espaçadores da base com relação ao solo.
+Quantidade utilizada: 8 (oito unidades)
+
+Nome do arquivo: Suporte_Motor_Esteira_Rolante_SOE.catPART 
+Descrição: Base de fixação do motor de passo para garantir estabilidade mecânica do motor NEMA 22 e alinhá-lo com o suporte do rolo.
+Quantidade utilizada: 1 (uma unidade)
+
+Nome do arquivo: Trava_Suporte_Motor_Esteira_Rolante_SOE.catPART 
+Descrição: Aro de fixação do motor de passo da esteira. Este aro é responsável por auxiliar a fixação do motor associado ao Suporte_Motor_Esteira_Rolante_SOE. As duas peças trabalham juntas para manter a fixação do motor de passo.
+Quantidade utilizada: 1 (uma unidade)
+
+Nome do arquivo: Suporte_Parafuso_Esteira_Rolante_SOE.catPART 
+Descrição: Suporte do parafuso que faz o alinhamento do rolo da esteira. O parafuso é fixado ao suporte e cria um ponto de eixo para o rolamento do rolo, utilizado tanto para o rolo motriz (o que está associado ao motor de passo) quanto para o rolo bobo (utilizando dois suportes para criar os dois pontos de eixo do rolo.
+Quantidade utilizada: 3 (três unidades)
+
+Nome do arquivo: Tampa_Rolo_Motor_Esteira_Rolante_SOE.catPART 
+Descrição: Tampa do rolo motriz, que associa o eixo do motor de passo a estrutura do rolo, que é composta por essa tampa e uma Tampa_Rolo_Rolamento_esteira_rolante_SOE; As duas tampas e um cano de PVC 50mm formam o rolo motriz da esteira.
+Quantidade utilizada: 1 (uma unidade)
+
+Nome do arquivo: Tampa_Rolo_Rolamento_esteira_rolante_SOE.catPART 
+Descrição: Tampa do rolo bobo, que associa o eixo do parafuso à estrutura do rolo. O rolo motriz utiliza uma tampa dessas enquanto o rolo bobo utiliza duas tampas dessas. A fixação do rolo bobo utiliza dois Suporte_Parafuso_Esteira_Rolante_SOE em conjunto com dois rolamentos 608 que se apoiam aos parafusos fixados aos suportes.
+Quantidade utilizada: 3 (três unidades)
+
+Nome do arquivo: Suporte_mesa_rRolante_SOE.catPART 
+Descrição: Suporte para a chapa de PVC que forma a mesa da esteira. Um conjunto dessas peças formam a base da mesa por onde corre o tapete (guiado pelo motor de passo a partir do rolo motriz e do rolo bobo).
+Quantidade utilizada: 6 (seis unidades)
+
+Nome do arquivo: Lateral_esq_rampa_esteira_rolante_SOE.catPART
+Descrição: Lateral esquerda com alojamento para encaixe de uma chapa de PVC que forma a rampa da saída B da esteira.
+Quantidade utilizada: 1 (uma unidade)
+
+Nome do arquivo: Lateral_dir_rampa_esteira_rolante_SOE.catPART
+Descrição: Lateral direita com alojamento para encaixe de uma chapa de PVC que forma a rampa da saída B da esteira.
+Quantidade utilizada: 1 (uma unidade)
+
+
+(Peças do Felipinho Mandrake)
+
+
+Nome do arquivo: Cancela_servo.catPART
+Descrição: Estrutura fixada ao eixo do servo motor responsável por guiar o objeto sobre a esteira para a saída B.
+Quantidade utilizada: 1 (uma unidade)
+
+Nome do arquivo: Suporte_Servo.catPART
+Descrição: Peça de fixação do servo motor. Esse suporte vai colado sobre a mesa da esteira e segura o servo motor na posição e altura para suprir as demandas do escopo do projeto.
+Quantidade utilizada: 1 (uma unidade)
+
+Nome do arquivo: Suporte_STlink.catPART
+Descrição: Suporte para fixação do STlink (programador e debugger do STM32) no corpo da esteira
+Quantidade utilizada: 1 (uma unidade)
+
+Nome do arquivo: Suporte_laser_c_ajuste_focal.catPART
+Descrição: Suporte do laser com ajuste focal para o sensor laser. Esse suporte serve para alinhar o laser ao LDR e deve ser fixado na mesa da esteira com um bom alinhamento entre os dois dispositivos. Cada sensor disposto na mesa da esteira possui um suporte de laser 
+Quantidade utilizada: 3 (três unidades)
+
+Nome do arquivo: Duporte_LDR.catPART
+Descrição: Suporte do LDR. Esse suporte serve para alinhar o LDR ao laser e deve ser fixado na mesa da esteira com um bom alinhamento entre os dois dispositivos. Cada sensor na mesa possui um suporte de LDR.
+Quantidade utilizada: 3 (três unidades)
+
+Nome do arquivo: Suporte_laser_Rampa.catPART
+Descrição: Suporte do laser para a rampa. Esse suporte é colado à lateral da rampa e cria um ponto de fixação por parafuso que prende o conjunto à base da esteira. Deve ser colado alinhado ao suporte do LDR da rampa.
+Quantidade utilizada: 1 (uma unidade)
+
+Nome do arquivo: Suporte_LDR_sensor_Rampa.catPART
+Descrição: Suporte do LDR para a rampa. Esse suporte é colado à lateral da rampa e cria um ponto de fixação por parafuso que prende o conjunto à base da esteira. Deve ser colado alinhado ao suporte do laser da rampa.
+Quantidade utilizada:
+
+
+Nome do arquivo: Suporte_flash_esteira.catPART
+Descrição: Suporte para a fita de LED que ilumina o objeto na região de leitura do código QR.
+Quantidade utilizada: 2 (duas unidades)
+
+
+Nome do arquivo: Suporte_poste_camera.catPART
+Descrição: Suporte plástico que une os dois suportes do flash e forma a estrutura da câmera, fechando a região de leitura da esteira. Devem ser utilizados duas peças dessas para separar igualmente os dois postes do flash.
+Quantidade utilizada: 2 (duas unidades)
+
+Nome do arquivo: Suporte_camera_Esteira_Soe.catPART
+Descrição: Ponto de fixação da câmera. Deve ser colada sobre os suportes que formam a região de leitura de forma que a câmera fique alinhada com o sensor laser onde o objeto é posicionado sobre o tapete da esteira.
+Quantidade utilizada: 1 (uma unidade)
+
+
+
